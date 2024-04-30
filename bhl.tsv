@@ -1574,7 +1574,7 @@ bhl01572	67166	Descriptions of 10 new Birds from the Naga Hills and Munipur Vall
 bhl01573	73708	On Peruvian Birds collected by Mr. Whitely	1874		677	680	10.1111/j.1096-3642.1874.tb02531.x	1874	28502890
 bhl01574	67176	On the Lapwing of Chili	1874		449	452	10.1111/j.1096-3642.1874.tb02503.x	1874	28502610
 bhl01575	67168	Description des oiseaux nouveaux de Perou central	1874		129	140	10.1111/j.1096-3642.1874.tb02461.x	1874	28502214
-bhl01576	67177	Descriptions of New Asiatic Lepidoptera	1874		565	579	10.1111/j.1096-3642.1874.tb02511.x		28502744
+bhl01576	67177	Descriptions of New Asiatic Lepidoptera	1874		565	579	10.1111/j.1096-3642.1874.tb02511.x	1874	28502744
 bhl01577	67179	Descriptions of 5 new species of Helicidae of the sabgenus Plectopylis, with remarks on all the other known forms	1874		608	613	10.1111/j.1096-3642.1874.tb02518.x	1874	28502797
 bhl01578	67162	Third report on collections of Indian reptiles obtained by the British Museum	1875		567	577		1876	28501838
 bhl01579	67148	Descriptions of thirty-three new or little-known species of Sphingidae in the collection of the British Museum	1875		3	16		1875	28501148
@@ -1582,7 +1582,7 @@ bhl01580	67154	Contributions to a general history of the Spongiadae. Part vii	18
 bhl01581	67164	Descriptions of several new species of Sphingidae	1875		621	623		1876	28501894
 bhl01582	67158	On some new species of Erigone from North America	1875		393	405		1875	28501626
 bhl01583	67153	A Monograph of the Siliceo-fibrous Sponges. Part III	1875		272	281		1875	28501489
-bhl01584	67156	On the genus Scotophilus, with description of a new genus and species allied thereto	1875		368	373		1975	28501597
+bhl01584	67156	On the genus Scotophilus, with description of a new genus and species allied thereto	1875		368	373		1875	28501597
 bhl01585	67149	Descriptions of ten new species of shells from the collection of Mr C. Coxen, of Brisbane, Queensland	1875		31	34		1875	28501180
 bhl01586	67157	Descriptions of three new species of shells from Australia	1875		389	390		1875	28501620
 bhl01587	67159	[footnote to a letter addressed to the Secretary by M.L.M.D. D'Albertis]	1875		530	532		1875	28501787
@@ -2390,7 +2390,7 @@ bhl02388	69485	First Report on Additions to the Batrachian Collection in the Nat
 bhl02389	69480	Descriptions of some new or little known Earthworms, together with an Account of the Variations in Structure exhibited by Perionyx excavatus, E. P	1886		298	314		1886	30829534
 bhl02390	69489	On Indian Earthworms. Part I. Preliminary notice of Earthworms from the Nilgiris and Shevaroys	1886		662	672		1886	30829962
 bhl02391	97180	On the South-African tortoises allied to Testudo geometrica	1886		540	542		1886	30829832
-bhl02392	69482	Descriptions of some new species of Rhopalocera from the Solomon Islands	1886		343	350			30829587
+bhl02392	69482	Descriptions of some new species of Rhopalocera from the Solomon Islands	1886		343	350		1886	30829587
 bhl02393	67668	On a New Species of Wild Pig from New Guinea	1886		217	218		1886	28985252
 bhl02394	67498	Descriptions of the phytophagous Coleoptera of Ceylon, obtained by Mr George Lewis during the years 1881-1882	1887		65	119		1887	28699940
 bhl02395	67499	On a collection of reptiles and batrachians made by Mr. H. Pryer in the Loo Choo Islands	1887		146	150		1887	28700031
@@ -2773,7 +2773,7 @@ bhl02771	72817	December 5, 1893	1893		729	760	10.1111/j.1469-7998.1893.tb00569.x
 bhl02772	72807	January 17, 1898	1893		1	168	10.1111/j.1096-3642.1893.tb01791.x	1893	35992201
 bhl02773	91268	On some Miocene squirrels, with remarks on the dentition and classification of the Sciurinae	1893		179	216		1893	35992401
 bhl02774	167929	Observations on the development of the rostrum in the cetacean genus Mesoplodon, with remarks on some of the species	1893		216	236		1893	35992438
-bhl02775	82091	On some Mammals from Central Peru	1893		333	340		1983	35992591
+bhl02775	82091	On some Mammals from Central Peru	1893		333	340		1893	35992591
 bhl02776	94395	4. Descriptions of new reptiles and batrachians obtained in Borneo by Mr. A. Everett and Mr. C. Hose	1893		522	528		1893	35992804
 bhl02777	157065	6. Description of a new Bat of the Genus Stenoderma from Montserrat	1894		132	133		1894	35990412
 bhl02778	157066	1. On the Mammals of Nyasaland: third Contribution	1894		136	146		1894	35990416
